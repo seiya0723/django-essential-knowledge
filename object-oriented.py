@@ -5,7 +5,7 @@
 class Introduction:
 
     #クラス内に作られた式は属性値。呼び出し方は.explain
-    explain = 'このクラスは.hello("言葉")を入れるとprint文を実行する'
+    explain = 'このクラスは.say("言葉")を入れるとprint文を実行する'
 
     #クラス内に作られた関数はメソッド。メソッドを定義する時、第1引数として必ずselfを指定する。指定なしだとエラー。
     def say(self,word):
@@ -50,5 +50,4 @@ inheri.hello()
 
 #継承したメソッドが未指定の場合引き継がれる
 inheri.say("こんにちは。継承元Introduction内に定義された.say()メソッドが残っているので発言できるよ")
-
 
