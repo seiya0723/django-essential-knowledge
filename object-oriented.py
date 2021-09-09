@@ -12,7 +12,9 @@ class Introduction:
         print(word)
 
 
+#Introductionクラスを継承する
 class Inheritance(Introduction):
+
 
     explain = 'このクラスはIntroductionを継承して作られました'
     extra   = 'この属性はInheritanceで新たに追加されました'
@@ -50,4 +52,22 @@ inheri.hello()
 
 #継承したメソッドが未指定の場合引き継がれる
 inheri.say("こんにちは。継承元Introduction内に定義された.say()メソッドが残っているので発言できるよ")
+
+
+#======問題==========================================================================================
+
+# 問1:Inheritanceクラスにsayメソッドを記述した場合、どうなる？
+
+
+
+
+# 問2:Introductionクラスのオブジェクトから.hello()メソッドを実行した時、どうなる？
+
+
+
+
+# 問3:この状態で、IntroductionクラスはInheritanceクラスを継承できる？
+
+
+
 
