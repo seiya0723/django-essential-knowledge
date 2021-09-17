@@ -8,9 +8,21 @@ print("私はmanage.pyです。私を実行して他のPythonファイル内の�
 views.views_intro()
 models.models_intro()
 
+
 """
 モジュールに関しては下記を参照
 https://note.nkmk.me/python-relative-import/
 
 """
+
+
+#====問題========================================
+
+# 問1:introディレクトリ内にadmin.pyを作って、admin.pyがmodels.pyをimportするにはどのように書けばよいか？
+
+
+# 問2:introディレクトリの中にtestディレクトリを作り、その中にtests.pyを作り、test.pyがmodels.pyをimportするにはどのように書けばよいか？
+
+
+# 問3:introディレクトリの中にtestディレクトリを作り、その中にdeepディレクトリを作り、その中にdeeps.pyを作り、deeps.pyがmodels.pyをimportするにはどのように書けばよいか？
 
