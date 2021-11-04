@@ -21,8 +21,8 @@ https://note.nkmk.me/python-relative-import/
 # 問1:introディレクトリ内にadmin.pyを作って、admin.pyがmodels.pyをimportするにはどのように書けばよいか？
 
 
-# 問2:introディレクトリの中にtestディレクトリを作り、その中にtests.pyを作り、test.pyがmodels.pyをimportするにはどのように書けばよいか？
+# 問2:introディレクトリの中にtestディレクトリを作り、その中にtest.pyを作り、test.pyがmodels.pyをimportするにはどのように書けばよいか？
 
 
-# 問3:introディレクトリの中にtestディレクトリを作り、その中にdeepディレクトリを作り、その中にdeeps.pyを作り、deeps.pyがmodels.pyをimportするにはどのように書けばよいか？
+# 問3:introディレクトリの中にtestディレクトリを作り、その中にdeepディレクトリを作り、その中にdeep.pyを作り、deep.pyがmodels.pyをimportするにはどのように書けばよいか？
 
